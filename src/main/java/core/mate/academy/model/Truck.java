@@ -16,7 +16,6 @@ public class Truck extends Machine {
     }
 
     public Truck() {
-
     }
 
     public String getEngineType() {
