@@ -5,7 +5,6 @@ package core.mate.academy.model;
  * Do not remove no-field constructor
  */
 public class Truck extends Machine {
-
     private String engineType;
     private String typeOfCargo;
     private int fuelCapacity;
